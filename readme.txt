@@ -1,3 +1,6 @@
+Tools used: HTML, CSS, JAVASCRIPT, JQUERY, MYSQL, LARAVEL, PHP
+API used: Mailtrap
+
 - To setup you need to install laravel first.
 - The database connection need to be established in .env file with this value
 DB_CONNECTION=mysql
